@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seredovskiy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Seredovskiy1&icon=1&color=12)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seredovskiy1&hide=javascript,css,scss,html&theme=tokyonight)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
