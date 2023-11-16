@@ -13,6 +13,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seredovskiy1&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seredovskiy1&layout=compact)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
