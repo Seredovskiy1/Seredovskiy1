@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning C#, Python, Java, Delphi, PHP<br><br>👨‍💻 All of my projects are available at GitHub<br><br>💬 Ask me about Delphi, Python<br><br>📫 How to reach me: gerojkuki@gmail.com
+
 https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## 🌐 Socials:
@@ -11,7 +12,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 ![](https://github-readme-stats.vercel.app/api?username=Seredovskiy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seredovskiy1&theme=dark&hide_border=false)<br/>
 
-[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seredovskiy1&theme=gruvbox&layout=compact)
   
