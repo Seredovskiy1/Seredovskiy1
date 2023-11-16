@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Seredovskiy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seredovskiy1&theme=dark&hide_border=false)<br/>
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![](https://github-readme-stats.vercel.app/api?username=Seredovskiy1&show_icons=true&theme=gruvbox)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
