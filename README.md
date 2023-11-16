@@ -15,6 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Seredovskiy1&icon=1&color=12)](https://visitcount.itsvg.in)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
